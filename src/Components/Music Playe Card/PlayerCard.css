@@ -1,0 +1,11 @@
+.player-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: white;
+  box-shadow: 0 0 5px #ddd;
+  padding: 12px;
+  border-radius: 6px;
+  width: 250px;
+  align-items: stretch;
+}
